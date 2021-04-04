@@ -35,17 +35,13 @@
      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangchina&layout=compact&text_color=daf7dc&bg_color=151515" />
     </td>
     <td align="center">
-      <a href="">
-        
-       <img align="right" src="https://github-readme-stats.vercel.app/api?username=khangchina&show_icons=true&theme=dracula" />
-        
-        <br>
+     <img align="right" src="https://github-readme-stats.vercel.app/api?username=khangchina&show_icons=true&theme=dracula" />
     </td>
   </tr>
 </table>
 
 
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=khangchina&show_icons=true&theme=dracula" />
 
 </br>
 
