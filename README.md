@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Khang. <img src="https://raw.githubusercontent.com/KhangChina/KhangChina/main/Hi.gif" width="25"></h2>
+<h2  align="center"> Hey there! I'm Khang. <img src="https://raw.githubusercontent.com/KhangChina/KhangChina/main/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/KhangChina/KhangChina/main/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -28,7 +28,6 @@
 ![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=8E2DE2)
 </br>
 
-
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
@@ -39,10 +38,7 @@
     </td>
   </tr>
 </table>
-
-
 </br>
-
 
 <h3> 🤝🏻 Connect with Me </h3>
 
