@@ -36,11 +36,9 @@
     </td>
     <td align="center">
       <a href="">
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        
        <img align="right" src="https://github-readme-stats.vercel.app/api?username=khangchina&show_icons=true&theme=dracula" />
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        
         <br>
     </td>
   </tr>
