@@ -30,7 +30,7 @@
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
 </br>
-
+---
 **Github Stats:**
 
 <p align="center">
@@ -39,7 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangchina&count_private=true&theme=dracula">
 
 </p>
-
+---
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
