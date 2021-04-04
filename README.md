@@ -43,6 +43,15 @@
 </table>
 </br>
 
+**Github Stats:**
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=khangchina&hide=stars&show_icons=true&theme=radical&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangchina&count_private=true&theme=dracula">
+
+</p>
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
@@ -52,6 +61,6 @@
 <a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 </p>
-
 ⭐️ From [Khang Nguyen](https://github.com/KhangChina)
+<h4 align="center"> Thanks for Visiting!:innocent:</h4>
 
