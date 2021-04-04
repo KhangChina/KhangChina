@@ -38,10 +38,11 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/the_caffeine__addict/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 </p>
 
 ⭐️ From [devSouvik](https://github.com/devSouvik)
