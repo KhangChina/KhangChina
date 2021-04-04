@@ -29,7 +29,7 @@
 </br>
 
 
-<table width="100%" >
+<table width="100%" border="none" >
   <tr>
     <td align="center">
      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangchina&layout=compact&text_color=daf7dc&bg_color=151515" />
