@@ -29,7 +29,7 @@
 </br>
 
 
-<table width="100%"  border="0" cellpadding="0" cellspacing="0">
+<table width="100%" >
   <tr>
     <td align="center">
      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangchina&layout=compact&text_color=daf7dc&bg_color=151515" />
@@ -40,8 +40,6 @@
   </tr>
 </table>
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=khangchina&show_icons=true&theme=dracula" />
 
 </br>
 
