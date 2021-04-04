@@ -35,14 +35,13 @@
      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangchina&layout=compact&text_color=daf7dc&bg_color=151515" />
     </td>
     <td align="center">
-      <a href="https://benyou.me">
+      <a href="">
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
        <img align="right" src="https://github-readme-stats.vercel.app/api?username=khangchina&show_icons=true&theme=dracula" />
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <br>
-        <strong>Visit my personal website </strong>
     </td>
   </tr>
 </table>
