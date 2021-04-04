@@ -14,7 +14,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Shell Linux/Windows | C# | Java | C/C++
-- 🌐 &nbsp; ASP.NET | PHP | HTML | CSS | JavaScript | Bootstrap | Nodejs
+- 🌐 &nbsp; ASP.NET | PHP | HTML | CSS | Nodejs
 - 🛢 &nbsp; MySQL | Firebase | Xampp | SQLServer | Oriendb | Swamp Servers 
 - 🔧 &nbsp; Android Studio | Docker/VMWare | Visual Studio code | Eclipse/Netbeans | Git/SVN | Visual Studio 
 - 🖥 &nbsp; Photoshop CC | Owasp | Kali Tools | Visual Route
@@ -25,13 +25,11 @@
 ![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
-![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
-![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
 ![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=8E2DE2)
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khangchina&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
