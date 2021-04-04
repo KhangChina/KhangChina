@@ -26,12 +26,14 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
 ![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=8E2DE2)
+![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
+![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 </br>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
-     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangchina&layout=compact&text_color=daf7dc&bg_color=151515" />
+     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangchina&theme=radical&title_color=8E2DE2&text_color=fff" />
     </td>
     <td align="center">
      <img align="right" src="https://github-readme-stats.vercel.app/api?username=khangchina&show_icons=true&theme=dracula" />
