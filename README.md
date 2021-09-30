@@ -13,9 +13,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Shell Linux/Windows | C# | Java | C/C++
+- 💻 &nbsp; Shell Linux/Windows | C# | Java | C/C++ | R 
 - 🌐 &nbsp; ASP.NET | PHP | HTML | CSS | Javascript
-- 🛢 &nbsp; MySQL | Firebase | Xampp | SQLServer | Oriendb | Swamp Servers 
+- 🛢 &nbsp; MySQL | Firebase | SQLServer | Swamp Servers 
 - 🔧 &nbsp; Android Studio | Docker/VMWare | Visual Studio code | Eclipse/Netbeans | Git/SVN | Visual Studio 
 - 🖥 &nbsp; Photoshop CC | Owasp | Kali Tools | Visual Route
 
