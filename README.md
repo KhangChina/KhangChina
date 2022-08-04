@@ -1,5 +1,5 @@
 <h2  align="center"> Hola! I'm Khang. <img src="https://raw.githubusercontent.com/KhangChina/KhangChina/main/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/KhangChina/KhangChina/main/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/KhangChina/KhangChina/blob/main/10d01a7b55b7d75fbea163645bed8a2d.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
