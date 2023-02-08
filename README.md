@@ -3,21 +3,23 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning .Net Application Development
+- 🔭 &nbsp; I’m research engineering and development of old, outdated systems
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Decompile Applications, Exploit Web vulnerabilities, Crack Solutions.
 - 💼 &nbsp; Open source PHP developer, Creating in Windows Server Environment that install applications.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ✍️ &nbsp; Configure and deploy web server systems
+- ☕ &nbsp; IT support skills for Windows, Linux 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Shell Linux/Windows | C# | Java | C/C++ | R 
-- 🌐 &nbsp; ASP.NET | PHP | HTML | CSS | Javascript
-- 🛢 &nbsp; MySQL | Firebase | SQLServer | Swamp Servers 
+- 💻 &nbsp; Shell Linux/Windows | C# - WPF - Windows Form - universal Windows- Platform| Java | C/C++ | R | Assembly
+- 🌐 &nbsp; ASP.NET | PHP | HTML | CSS | Javascript | Typescript | Python | Electron
+- 🛢 &nbsp; MySQL | Firebase | SQLServer | Swamp Servers | Mongodb
 - 🔧 &nbsp; Android Studio | Docker/VMWare | Visual Studio code | Eclipse/Netbeans | Git/SVN | Visual Studio 
-- 🖥 &nbsp; Photoshop CC | Owasp | Kali Tools | Visual Route
+- 🖥 &nbsp; Owasp | Kali Tools | Visual Route | Dnspy | Debug64 
+- 😈 &nbsp; Crack Windows Application | Ddos botnet | System mining
+- 😎 &nbsp; Angular | Electron | Nestjs | Capacitor | Codeigniter | Yii 
 
 <h3>:loudspeaker: Other Detail</h3>
 
