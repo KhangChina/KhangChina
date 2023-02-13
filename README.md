@@ -13,7 +13,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Shell Linux/Windows | C# - WPF - Windows Form - universal Windows- Platform| Java | C/C++ | R | Assembly
+- 💻 &nbsp; Shell Linux/Windows | C# - WPF - Windows Form - Universal Windows | Java | C/C++ | R | Assembly
 - 🌐 &nbsp; ASP.NET | PHP | HTML | CSS | Javascript | Typescript | Python | Electron
 - 🛢 &nbsp; MySQL | Firebase | SQLServer | Swamp Servers | Mongodb
 - 🔧 &nbsp; Android Studio | Docker/VMWare | Visual Studio code | Eclipse/Netbeans | Git/SVN | Visual Studio 
