@@ -9,7 +9,7 @@
 - 💼 &nbsp; Open source PHP developer, Creating in Windows Server Environment that install applications.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
 - ✍️ &nbsp; Configure and deploy web server systems
-- ☕ &nbsp; IT support skills for Windows, Linux 
+- ☕ &nbsp; IT support for Windows, Linux 
 
 <h3>🛠 Tech Stack</h3>
 
