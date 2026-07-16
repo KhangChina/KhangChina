@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m research engineering and development of old, outdated systems
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Decompile Applications, Exploit Web vulnerabilities, Crack Solutions.
+- 🎓 &nbsp; Decompile Applications, Exploit Web vulnerabilities.
 - 💼 &nbsp; Open source PHP developer, Creating in Windows Server Environment that install applications.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
 - ✍️ &nbsp; Configure and deploy web server systems
